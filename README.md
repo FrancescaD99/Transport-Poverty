@@ -30,14 +30,14 @@ Open the live demo above, or run it locally by opening `index.html` in a browser
 Add `#/case/N` to the address, where `N` is the use case number:
 
 ```
-https://YOUR-USERNAME.github.io/equity-in-transport-use-cases/#/case/1
+https://francescad99.github.io/Transport-Poverty/#/case/1
 ```
 
 ### Embed it in another page
 
 ```html
 <iframe
-  src="https://YOUR-USERNAME.github.io/equity-in-transport-use-cases/"
+  src="https://francescad99.github.io/Transport-Poverty)/"
   title="Equity in Transport use cases"
   style="width:100%; height:900px; border:0;"
   loading="lazy"
@@ -63,4 +63,4 @@ The use case texts, photographs, illustrations, logos and the Equity in Transpor
 
 ## Contact
 
-YOUR NAME / TEAM · YOUR EMAIL OR LINKEDIN
+Francesca D'Alessandro - Project Mobility COnsultant and Data SPecialist at FACTUAL Consulting
