@@ -3,7 +3,7 @@
 **An interactive showcase of 15 real-world use cases on understanding and tackling transport poverty.**
 Search by keyword, spin the globe, and open any case to read it with its sources.
 
-[![Live demo](https://img.shields.io/badge/live%20demo-open%20the%20site-181D70?style=for-the-badge)](https://YOUR-USERNAME.github.io/equity-in-transport-use-cases/)
+[![Live demo](https://img.shields.io/badge/live%20demo-open%20the%20site-181D70?style=for-the-badge)](https://francescad99.github.io/Transport-Poverty/)
 
 ![Preview of the Equity in Transport use cases website](social-preview.png)
 
